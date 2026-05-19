@@ -19,3 +19,4 @@ INSERT INTO productos (nombre, descripcion, precio, stock) VALUES
 -- prueba pipeline db
 -- TEST
 -- TEST
+-- PRUEBA PIPELINE DB VIDEO!
